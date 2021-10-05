@@ -1,17 +1,17 @@
 {
-   "title":"BAJO LA LUZ VERDE",
-   "description":"Jin es el hombre más perfectamente hermoso que Matthew jamás haya visto. También es un criminal violento y de alto rango, lleno de ambiciones frustradas y de apetitos igualmente frustrados. Pero Matthew, un estudiante prodigio de escultura, sólo puede ver la belleza, no la oscuridad. De un modo u otro, Matthew pagará el precio de su musa, con su cuerpo... o con algo mucho más costoso.",
-   "artist":"JAXX",
-   "author":"JAXX",
-   "cover":"https://imgur.com/7mV12yL.jpg",
-   "chapters":{
-      "<1>":{
-         "title":"Capítulo 01",
-         "volume":"1",
-         "groups":{
-            "POCHI":"/proxy/api/imgur/chapter/vBVOwi6/"
-         },
-         "last_updated":"1616368746"
+  "title": "BAJO LA LUZ VERDE",
+  "description": "Jin es el hombre más perfectamente hermoso que Matthew jamás haya visto. También es un criminal violento y de alto rango, lleno de ambiciones frustradas y de apetitos igualmente frustrados. Pero Matthew, un estudiante prodigio de escultura, sólo puede ver la belleza, no la oscuridad. De un modo u otro, Matthew pagará el precio de su musa, con su cuerpo... o con algo mucho más costoso.",
+  "artist": "JAXX",
+  "author": "JAXX",
+  "cover": "https://imgur.com/7mV12yL.jpg",
+  "chapters": {
+    "1": {
+      "title": "Capitulo 1",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/vBVOwi6/"
+      },
+      "last_updated": "1616368746"
       }
    }
 }
