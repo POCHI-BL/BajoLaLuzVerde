@@ -68,6 +68,90 @@
         "POCHI": "/proxy/api/imgur/chapter/LH8Mw6R/"
       },
       "last_updated": "1619043765"        
-    }    
+     },
+         "9": {
+      "title": "Capítulo 9",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/dAYmPuL/"
+      },
+      "last_updated": "1619043765"
+      },
+         "10": {
+      "title": "Capítulo 10",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/3Ld1OZG/"
+      },
+      "last_updated": "1619043765"
+      },
+      "last_updated": "1619043765"
+      },
+         "11": {
+      "title": "Capítulo 11",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/2j1p0n8/"
+      },
+      "last_updated": "1619043765"
+      },
+         "12": {
+      "title": "Capítulo 12",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/2j1p0n8/"
+      },
+      "last_updated": "1619043765"
+      },
+      
+         "13": {
+      "title": "Capítulo 13",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/3sVHOpv/"
+      },
+      "last_updated": "1619043765"
+      },
+          "14": {
+      "title": "Capítulo 14",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/SDIZham/"
+      },
+      "last_updated": "1619043765"
+      },
+           "15": {
+      "title": "Capítulo 15",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/vjIU33N/"
+      },
+      "last_updated": "1619043765"
+      },
+         "16": {
+      "title": "Capítulo 16",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/zr4bHuR/"
+      },
+      "last_updated": "1619043765"
+      },
+          "17": {
+      "title": "Capítulo 17",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/HBgVJTS/"
+      },
+      "last_updated": "1619043765"
+      },   
+           "18": {
+      "title": "Capítulo 18",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/N8rtlws/"
+      },
+      "last_updated": "1619043765"
+          }    
   }
 }
+  
